@@ -1,0 +1,4 @@
+hello my name is name.
+my class is class
+my hobby is hobby.
+my nature is nature.
